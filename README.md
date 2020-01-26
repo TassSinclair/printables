@@ -1,6 +1,6 @@
 # rail-loop *[.blend](rail-loop.blend), [.stl](rail-loop.stl)*
 
-[<img src="rail-loop.png" width="100"/>](rail-loop.png)
+[<img src="rail-loop.png" width="200"/>](rail-loop.png)
 
 Loop for suspending coathanger rail inside wardrobes.
 
