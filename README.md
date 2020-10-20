@@ -10,6 +10,24 @@ Stand for parking a dish wand in a split-tub kitchen sink.
 
 Cap for Mijia wireless switch, with a bell icon imprint.
 
+# ikea-e14-to-e27-bridge *[.scad](ikea-e14-to-e27-bridge.scad), [.stl](ikea-e14-to-e27-bridge.stl)*
+
+[<img src="ikea-e14-to-e27-bridge.png" width="200"/>](ikea-e14-to-e27-bridge.png)
+
+Bridge for IKEA's E14 bulb holder to an E27 bulb holder.
+
+# kombucha-filter *[.scad](kombucha-filter.scad), [.stl](kombucha-filter.stl)*
+
+[<img src="kombucha-filter.png" width="200"/>](kombucha-filter.png)
+
+Filter for pouring liquid into bottles with a 17mm diameter mouth
+
+# luminosity-sensor-holder *[.scad](luminosity-sensor-holder.scad), [.stl](luminosity-sensor-holder.stl)*
+
+[<img src="luminosity-sensor-holder.png" width="200"/>](luminosity-sensor-holder.png)
+
+Monitor-mounted holder for Xiaomi Mijia luminosity sensor.
+
 # rail-loop *[.blend](rail-loop.blend), [.stl](rail-loop.stl)*
 
 [<img src="rail-loop.png" width="200"/>](rail-loop.png)
