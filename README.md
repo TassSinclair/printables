@@ -10,11 +10,11 @@ Stand for parking a dish wand in a split-tub kitchen sink.
 
 Cap for Mijia wireless switch, with a bell icon imprint.
 
-# ikea-e14-to-e27-bridge *[.scad](ikea-e14-to-e27-bridge.scad), [.stl](ikea-e14-to-e27-bridge.stl)*
+# skurub-e14-to-e27-mount-converter *[.scad](skurub-e14-to-e27-mount-converter.scad), [.stl](skurub-e14-to-e27-mount-converter.stl)*
 
-[<img src="ikea-e14-to-e27-bridge.png" width="200"/>](ikea-e14-to-e27-bridge.png)
+[<img src="skurub-e14-to-e27-mount-converter.png" width="200"/>](skurub-e14-to-e27-mount-converter.png)
 
-Bridge for IKEA's E14 bulb holder to an E27 bulb holder.
+IKEA SKURUB E14 bulb holder to an E27 bulb holder mount converter.
 
 # kombucha-filter *[.scad](kombucha-filter.scad), [.stl](kombucha-filter.stl)*
 

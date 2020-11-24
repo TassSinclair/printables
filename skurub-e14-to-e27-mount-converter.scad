@@ -27,16 +27,16 @@ module inner_bit() {
 }
 
 module fork () {
-    translate([0,-5,-12]) {
-      cube([19, 10, 3]);
+    translate([0,-5,-10]) {
+      cube([20, 10, 3]);
     }
 
-    translate([16,-5, -9]) {
-      cube([3, 10, 11]);
+    translate([16.5,-5, -7]) {
+      cube([3.5, 10, 9]);
     }
 
     translate([0, -5, -14]) {
-      cube([6, 10, 2]);
+      cube([6, 10, 4]);
     }
 }
 fork();
@@ -45,12 +45,14 @@ rotate([0, 0, 180]) {
     fork();
 }
 
-translate([0, 0, -24]) {
+rotate([0, 0, 90]) {
+  translate([0, 0, -24]) {
     inner_bit();
 
     mirror([0, 1, 0]) {
     inner_bit();
     }
+  }
 }
 
 ClipPoints = [
@@ -89,10 +91,10 @@ mirror([1, 0, 0]) {
 }
 
 module clip_bit() {
-  translate([36/2-2, -5, 2]) {
+  translate([36/2-1.5, -5, 2]) {
     color("blue") {
       difference() {
-        cube([3, 10, 9.5]);
+        cube([3.5, 10, 9.5]);
       translate([-2, 1, -1.5]) {
           wedge();
       }
